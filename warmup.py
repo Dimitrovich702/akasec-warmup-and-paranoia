@@ -57,3 +57,6 @@ p.interactive()
 # additional note the pwns are not solvable if your gblic version is different to the remote machines make sure you have the current ubuntu version for july 2024
 
 # AKASEC{1_Me44444N_J00_C0ULDve_ju57_574CK_p1V07ed}
+#XD #FR33P4L3S71N3&G4Z4 
+
+
